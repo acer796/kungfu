@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "contract": "kungfu-buildchain-stable-candidate-ledger",
+  "repository": "acer796/kungfu",
+  "targetBranch": "release/v4/v4.0",
+  "hold": {
+    "enabled": false,
+    "reason": "",
+    "updatedAt": "2026-07-29T20:05:31.224Z"
+  },
+  "candidates": [],
+  "updatedAt": "2026-07-29T20:05:31.224Z",
+  "stableReleases": []
+}
